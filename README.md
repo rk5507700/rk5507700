@@ -12,7 +12,7 @@ As a student, I'm actively expanding my knowledge in various fields:
 - **Programming Languages**: Getting comfortable with languages like C, C++, Java and Python.
 - **Data Structures & Algorithms**: Understanding the fundamentals to solve problems efficiently.
 - **Web Development**: Exploring HTML, CSS, and JavaScript to create interactive websites.
-- **Artificial Intelligence & Machine Learning**: Beginning to learn about how machines can learn from data.
+- **Data Science & Machine Learning**: Beginning to learn about how machines can learn from data.
 
 ## 🎯 Future Goals
 
